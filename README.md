@@ -52,3 +52,6 @@ layout.setListener(this);//添加监听，有4个不同的回调，
 //里面的每一个图片都是DragImage，里面有num以及path，在设置图片时请使用下列进行设置，内部使用Glide进行图片渲染
 image.setImage(path, type);
 ```
+
+图片如果看不完整可以访问我的博客
+https://blog.csdn.net/a568283992/article/details/94192662
