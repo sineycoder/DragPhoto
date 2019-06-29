@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DragFrameLayout">
+        <attr name="placeholder" format="reference"/>
+        <attr name="gap" format="dimension"/>
+    </declare-styleable>
+</resources>
